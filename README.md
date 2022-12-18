@@ -1,4 +1,4 @@
-# SQL-Scripts
+# Watson OpneScale batch processing
 
 Artifacts for batch subscriptions(aka self managed).
 
